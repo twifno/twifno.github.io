@@ -27,7 +27,7 @@ github_username:  twifno
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.16.4"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
