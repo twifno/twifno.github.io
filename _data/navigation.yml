@@ -1,66 +1,64 @@
 # main links
 main:
-  - title: "Readme"
+  - title: "关于本站"
     url: /
   - title: "Tips"
     url: /tips/how-to-solve-puzzles
-  - title: "Posts"
+  - title: "题目"
     url: /posts/
 
 
 # documentation links
 tips:
-  - title: Getting Started
+  - title: 概述
+    url: /tips/how-to-solve-puzzles
+  - title: 数据结构
+    url: /tips/data-structure-overview
+  - title: 算法
+    url: /tips/algorithms-overview
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
-        url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-  - title: Content
-    children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
-  - title: Meta
-    children:
-      - title: "History"
-        url: /docs/history/
-      - title: "Contributing"
-        url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
-      - title: "License"
-        url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
+      - title: "选择排序"
+        url: /tips/algorithms/sorting/selection-sort
+      - title: "插入排序"
+        url: /tips/algorithms/sorting/insertion-sort
+      - title: "冒泡排序"
+        url: /tips/algorithms/sorting/bubble-sort
+      - title: "归并排序"
+        url: /tips/algorithms/sorting/merge-sort
+      - title: "希尔排序"
+        url: /tips/algorithms/sorting/shell-sort
+      - title: "快速排序"
+        url: /tips/algorithms/sorting/quick-sort
+      - title: "二分查找"
+        url: /tips/algorithms/searching/binary-search
+      - title: "二叉搜索树"
+        url: /tips/algorithms/searching/binary-search-tree
+      - title: "平衡二叉树"
+        url: /tips/algorithms/searching/balanced-search-tree
+      - title: "哈希表"
+        url: /tips/algorithms/searching/hash-table
+      - title: "有向图"
+        url: /tips/algorithms/graphs/directed-graph
+      - title: "无向图"
+        url: /tips/algorithms/graphs/undirected-graph
+      - title: "最小生成树"
+        url: /tips/algorithms/graphs/minimum-spanning-tree
+      - title: "最短路径"
+        url: /tips/algorithms/graphs/shortest-paths
+      - title: "字符串排序"
+        url: /tips/algorithms/strings/string-sort
+      - title: "Trie树"
+        url: /tips/algorithms/strings/trie
+      - title: "子字符串搜索"
+        url: /tips/algorithms/strings/substring-search
+      - title: "正则表达式"
+        url: /tips/algorithms/strings/regular-expression
+      - title: "字符串压缩"
+        url: /tips/algorithms/strings/data-compression 
+  - title: 解题思路
+    url: /tips/methodology-overview
+  - title: 练习题目
+  - title: 参考
+    url: /tips/references
+
+

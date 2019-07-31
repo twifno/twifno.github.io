@@ -1,9 +1,7 @@
 ---
 permalink: /
 title: "Readme"
-excerpt: "Interview hacker is a site to share my interview experience."
 last_modified_at: 2019-06-26T09:51:09+08:00
-toc: true
 ---
 
 目前计算机相关工作的求职，一般都会有若干轮的算法面试和系统设计面试，如何在这些面试中有良好的表现，是每个找工作的人都要面对的挑战。今年因为要跳槽，大概花了三个月的时间进行准备。在面试过程中，深感做好准备的重要。因此决定将准备的所得通过这个博客记录下来，一方面希望通过对知识的归纳总结使自己能有所提高，另一方面也希望能分享给有需要的人。
